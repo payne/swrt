@@ -1,7 +1,7 @@
 [
  { "url": "http://Google.com",
     "desc": "Search it"
- }
+ },
  { "url": "http://Bing.com",
     "desc": "Bing it"
  }
